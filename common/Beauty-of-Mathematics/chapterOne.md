@@ -1,7 +1,2 @@
-### Markdown
+### 文字和语言 vs 数字和信息
 
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
